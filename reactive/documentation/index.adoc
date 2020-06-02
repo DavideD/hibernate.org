@@ -1,0 +1,13 @@
+= Documentation
+:awestruct-layout: project-documentation
+:awestruct-project: reactive
+
+== Guides
+
+link:/reactive/documentation/getting-started[Getting started guide]::
+For a gentle introduction to the concepts of Hibernate Reactive without being sidetracked by other technologies.
+
+== Other documentation
+
+link:/reactive/faq/[FAQ]::
+Frequently asked questions.
