@@ -1,0 +1,17 @@
+= Hibernate Reactive {fullVersion} Reference Documentation
+Gavin King <gavin@hibernate.org>
+:toc2:
+:toclevels: 3
+:sectanchors:
+:source-highlighter: pygments
+
+:leveloffset: +1
+
+include::preface.adoc[]
+
+:numbered:
+
+include::introduction.adoc[]
+
+:leveloffset: -1
+
