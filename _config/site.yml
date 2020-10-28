@@ -492,7 +492,7 @@ projects:
     zip_file:
     links:
       reference_doc:
-        html: /reactive/documentation/{series.version}/reference/html_single/
+        html: /reactive/documentation/{series.version}/reference/
         latest_stable:
           html:
       javadoc:
