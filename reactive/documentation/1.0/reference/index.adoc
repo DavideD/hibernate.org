@@ -1,0 +1,24 @@
+= Reference Documentation 1.0
+Gavin King <gavin@hibernate.org>
+// Awestruct
+:awestruct-layout: project-standard
+:awestruct-project: reactive
+:page-interpolate: true
+:project: #{site.projects[page.project]}
+// ASCIIDOCTOR
+:latest_release: 1.0.0-SNAPSHOT
+:family_version: 1.0
+:doc_path: reactive/documentation/1.0//reference/
+:toc:
+:numbered:
+:toc2:
+:toclevels: 3
+:sectanchors:
+:source-highlighter: pygments
+
+:leveloffset: +1
+include::{doc_path}preface.adoc[]
+
+include::{doc_path}introduction.adoc[]
+
+:leveloffset: -1
